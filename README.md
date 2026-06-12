@@ -1,6 +1,6 @@
 ### Python Script for Shepherd's or Cylindrical Sundial Generation
 #### Overview
-This is a Python script designed for the generation of shepherd's or cylindrical sundial, historically referred to as pillar dial, cylinder, or chilindre. These devices are portable altitude dials with a rich history that extends from Antiquity through the Renaissance.
+This is a Python script designed for the generation of shepherd's or cylindrical sundial, historically referred to as pillar dial, cylinder, or chilindre. These devices are portable altitude dials with a rich history that extends from Antiquity through the Renaissance. More info about the design in the file "Renaissance Inspired Shepherd's Sundial _ Instructables.pdf"
 #### Script Functionality
 The script accepts user input for key parameters: latitude, time zone, cylinder diameter (in millimetres), and cylinder height (in millimetres). Based on these inputs, it calculates the required gnomon and produces an editable dial in an Inkscape .svg file format.
 #### Historical Significance
